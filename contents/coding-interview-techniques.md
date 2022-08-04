@@ -81,9 +81,9 @@ def group_anagrams(strings):
 
 And proceed to fill in the implementation of each function. However, do note that sometimes the most efficient solutions will require you to break some abstractions and do multiple operations in one pass of the input. If your interviewer asks you to optimize based on your well-abstracted solution, that is one possible path forward.
 
-### 5. Apply common data structures and algorithms at the problem
+### 5. Apply common data structures and algorithms to the problem
 
-Unlike real-world software engineering where the problems are usually open-ended and might not have clear solutions, coding interview problems tend to be smaller in nature and are designed to be solvable within the duration of the interview. You can also expect that the knowledge required to solve the problem is not out of this world and they would have been taught during college. Thankfully, the number of common data structures and algorithms is finite and a hacky approach which works from my experience is to try going through all the common data structures and applying them to the problem.
+Unlike real-world software engineering where the problems are usually open-ended and might not have clear solutions, coding interview problems tend to be smaller in nature and are designed to be solvable within the duration of the interview. You can also expect the knowledge required to solve the problem to be limited to concepts that have been taught during college. Thankfully, the number of common data structures and algorithms is finite. And from my experience, a hacky approach that works during interviews is to try going through all the common data structures and applying them to the problem.
 
 These are the data structures to keep in mind and try, in order of frequency they appear in coding interview questions:
 
@@ -271,7 +271,7 @@ An example of using the original array as a hash table is the [First Missing Pos
 
 #### 2. Change a data structure
 
-Data structures again!? Yes, data structures again! Data structures are so fundamental to coding interviews and mastery of it makes or breaks your interview performance. Are you using the best data structure possible for the problem?
+Data structures again!? Yes, data structures again! Data structures are so fundamental to coding interviews that mastery of it can make or break your interview performance. Are you using the best data structure possible for the problem?
 
 #### Example
 
